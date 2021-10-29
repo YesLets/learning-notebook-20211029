@@ -6,7 +6,7 @@
 Welcome to Coding with Kids's documentation!
 ============================================
 
-2021-10-29 Fri  7:00 pm Accra (GMT) / 3:00 pm Toronto, 2 hour session
+2021-10-29 Friday  - Learning RST formatting
 ---------------------------------------------------------------------
 
 Tasks for Friday
