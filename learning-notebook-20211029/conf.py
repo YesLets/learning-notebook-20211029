@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Coding with Kids'
-copyright = '2021, Hazel Bunny'
-author = 'Hazel Bunny'
+project = 'Learning Notebook (originally coding-with-kids)'
+copyright = '2021, Liv Hua'
+author = 'Liv Hua'
 
 
 # -- General configuration ---------------------------------------------------
