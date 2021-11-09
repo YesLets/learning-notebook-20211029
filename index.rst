@@ -34,17 +34,17 @@ Tasks for Friday
 
 + Add text content to our RST files in our repository for our first project  (Liv’s notebook-Sphinx-Tutorial-20211021_RD).
 
-How many `cute bunnies <https://www.google.com/search?q=cute+bunnies&newwindow=1&rlz=1C1NDCM_enCA945CA947&sxsrf=AOaemvLe60rxJJfLr0rRDluPVy1HwOv6Eg:1636482881368&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjggczm9Yv0AhUJmWoFHcj2DsEQ_AUoAXoECAEQAw&biw=1366&bih=657&dpr=1>`_ does it take code a lightbulb?
+How many `bunnies <https://www.google.com/search?q=cute+bunnies&newwindow=1&rlz=1C1NDCM_enCA945CA947&sxsrf=AOaemvLe60rxJJfLr0rRDluPVy1HwOv6Eg:1636482881368&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjggczm9Yv0AhUJmWoFHcj2DsEQ_AUoAXoECAEQAw&biw=1366&bih=657&dpr=1>`_ does it take code a lightbulb?
 
-======== ===
-Pet      Qty
-======== ===
-Cat      1
-Dogs     1
-Rabbit   1
-Goldfish 3
-Total    6
-======== ===
+============ ===
+Rabbit Breed Qty
+============ ===
+Dutch        1
+Giant        1
+Dwarf        1
+Lionhead     3
+Total        6
+============ ===
 
 .. image:: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F24%2F2020%2F06%2F08%2FGettyImages-10141026-1bunnies.-vikkihart-2000.jpg&q=85
 
