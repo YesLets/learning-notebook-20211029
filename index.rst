@@ -34,7 +34,7 @@ Tasks for Friday
 
 + Add text content to our RST files in our repository for our first project  (Liv’s notebook-Sphinx-Tutorial-20211021_RD).
 
-How many `cute animals <https://www.google.com/search?q=cute+animals&newwindow=1&rlz=1C1NDCM_enCA945CA947&sxsrf=AOaemvLBKMmShtgG-x0iChyCk4T6LRlHTw:1635544430439&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwitjqnmzfDzAhXd6XMBHU7qAhYQ_AUoAXoECAEQAw&biw=1366&bih=657&dpr=1>`_ does it take code a lightbulb?
+How many `cute bunnies <https://www.google.com/search?q=cute+bunnies&newwindow=1&rlz=1C1NDCM_enCA945CA947&sxsrf=AOaemvLe60rxJJfLr0rRDluPVy1HwOv6Eg:1636482881368&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjggczm9Yv0AhUJmWoFHcj2DsEQ_AUoAXoECAEQAw&biw=1366&bih=657&dpr=1>`_ does it take code a lightbulb?
 
 ======== ===
 Pet      Qty
